@@ -10,8 +10,11 @@
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
-1. Do: [Flexbox Froggy]()
+2. Do: [Flexbox Defense](http://www.flexboxdefense.com/)
 2. Read: [Flexbox vs CSS Grid]()
+
+Bonus:
+1. Do: [Flexbox Froggy](https://flexboxfroggy.com/)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
