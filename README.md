@@ -4,14 +4,15 @@
 
 ### 1.Instagram Quotes - EST TIME: 1hr
 
-1. Go to [Startup Matchmaker]().
+1. Go to [Startup Matchmaker](./startup-matchmaker/README.md).
 2. Follow the instructions in that repo
 
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
-2. Do: [Flexbox Defense](http://www.flexboxdefense.com/)
-2. Read: [Flexbox vs CSS Grid]()
+1. Do: [Flexbox Defense](http://www.flexboxdefense.com/)
+2. Read: [Flexbox vs CSS Grid](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
+3. Read: [Beginner's Guide to Choose BEtween CSS grid and Felxbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
 
 Bonus:
 1. Do: [Flexbox Froggy](https://flexboxfroggy.com/)
