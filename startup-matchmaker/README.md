@@ -18,7 +18,7 @@ You ***Must*** fork and clone this repo since you do not have the rights to make
 
 1. Fork and clone this repo
 2. Change into the new directory
-3. Recreate the starup website as the starter image shows [here](./images/startup-matchmaker.png)
+3. Recreate the starup website as the starter image shows [here](./starter_code/images/startup-matchmaker.png)
 
 When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
