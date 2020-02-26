@@ -5,7 +5,7 @@
 ### 1.Instagram Quotes - EST TIME: 1hr
 
 1. Go to [Startup Matchmaker]().
-2. Create an Issue ticket in the above repo in the same format you did yesterday. 
+2. Follow the instructions in that repo
 
 
 ### 2. Read/Watch The Following - EST TIME: 20min
