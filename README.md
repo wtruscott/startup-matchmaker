@@ -11,12 +11,11 @@
 ### 2. Read/Watch The Following - EST TIME: 20min
 
 1. Do: [Flexbox Defense](http://www.flexboxdefense.com/)
-3. Read: [Beginner's Guide to Choose BEtween C
 2. Read: [Flexbox vs CSS Grid](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
 
 Bonus:
 1. Do: [Flexbox Froggy](https://flexboxfroggy.com/)
-3. Read: [Beginner's Guide to Choose BEtween CSS grid and Felxbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
+3. Read: [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
