@@ -1,5 +1,3 @@
-# W01D03-HW
-
 ## Command Line / Interview Questions
 
 ### 1.Instagram Quotes - EST TIME: 1hr
