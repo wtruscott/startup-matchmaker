@@ -20,7 +20,7 @@ You ***Must*** fork and clone this repo since you do not have the rights to make
 2. Change into the new directory
 3. Recreate the starup website as the starter image shows [here](./starter_code/images/startup-matchmaker.png)
 
-When you have fulfilled the requirements below, submit a link to your github repo in the google sheet.
+When you have fulfilled the requirements below, submit a link to your github repo in the google form.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 10:00am.
