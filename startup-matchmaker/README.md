@@ -20,6 +20,8 @@ You ***Must*** fork and clone this repo since you do not have the rights to make
 2. Change into the new directory
 3. Recreate the starup website as the starter image shows [here](./starter_code/images/startup-matchmaker.png)
 
+<img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup-matchmaker.png" width=600/>
+
 When you have fulfilled the requirements below, submit a link to your github repo in the google form.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
