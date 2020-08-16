@@ -24,9 +24,6 @@ You ***Must*** fork and clone this repo since you do not have the rights to make
 
 When you have fulfilled the requirements below, submit a link to your github repo in the google form.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 10:00am.
-
 ## Requirements
 
 1. Open the starter_code in your code editor
