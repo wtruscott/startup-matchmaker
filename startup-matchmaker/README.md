@@ -18,7 +18,7 @@ You ***Must*** fork and clone this repo since you do not have the rights to make
 
 1. Fork and clone this repo
 2. Change into the new directory
-3. Recreate the starup website as the starter image shows [here](./starter_code/images/startup-matchmaker.png)
+3. Recreate the below mockup
 
 <img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup-matchmaker.png" width=600/>
 
