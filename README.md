@@ -9,6 +9,7 @@
 ### 2. Read/Watch The Following - EST TIME: 20min
 
 - Play: [Flexbox Defense](http://www.flexboxdefense.com/)
+- Read: [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
 - Do: [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/)
 
 
