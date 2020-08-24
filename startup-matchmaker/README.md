@@ -28,8 +28,9 @@ When you have fulfilled the requirements below, submit a link to your github rep
 
 1. Open the starter_code in your code editor
 2. Create an `index.html` file at the root of the directory
-3. Link the `styles.css` file to the `index.html` file.
-4. Use your coding powers to do the thing.
+2. Use `! + cmd` to create the default HTML structure
+3. Link the `styles.css` file to the `index.html` file
+4. Use your coding powers to build out the design
 
 ## Plagiarism
 
