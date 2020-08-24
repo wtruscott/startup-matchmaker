@@ -7,8 +7,10 @@
 3. When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
 
 ### 2. Read/Watch The Following - EST TIME: 20min
-- Read: [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
+
 - Do: [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/)
+- Read: [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
+
 
 
 **Bonus:**
