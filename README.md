@@ -4,7 +4,7 @@
 
 1. Go to [Startup Matchmaker](./startup-matchmaker/README.md).
 2. Follow the instructions in that repo
-3. When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
+3. When commpleted submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
