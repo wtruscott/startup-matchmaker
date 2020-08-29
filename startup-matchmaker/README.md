@@ -30,6 +30,7 @@ When you have fulfilled the requirements below, submit a link to your github rep
 2. Create an `index.html` file at the root of the directory
 2. Use `! + cmd` to create the default HTML structure
 3. Link the `styles.css` file to the `index.html` file
+3. The `images` directory contains the background image
 4. Use your coding powers to build out the design
 
 ## Plagiarism
