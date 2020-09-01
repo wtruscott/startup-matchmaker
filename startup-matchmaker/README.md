@@ -14,10 +14,10 @@ So you're the lead developer at this amazing new startup: Matchmaker. This start
 
 ## Instructions
 
-You ***Must*** fork and clone this repo since you do not have the rights to make changes. Once forked, and cloned to your own computer
+Do the following:
 
-1. Fork and clone this repo
-2. Change into the new directory
+1. Fork and clone this repo (you must do this step as you do not have rights to push changes to this repo)
+2. Change into the new directory 
 3. Recreate the below mockup
 
 <img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup-matchmaker.png" width=600/>
