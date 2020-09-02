@@ -12,9 +12,9 @@
 - Read: [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
 
 
-
 **Bonus:**
 - Play: [Flexbox Defense](http://www.flexboxdefense.com/)
+- Play: [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 
 
 
