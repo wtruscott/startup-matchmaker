@@ -27,8 +27,7 @@ When you have fulfilled the requirements below, submit a link to your github rep
 ## Requirements
 
 1. Open the starter_code in your code editor
-2. Create an `index.html` file at the root of the directory
-2. Use `! + tab` to create the default HTML structure
+2. Examine the `index.html` file as it contains all the HTML needed for the design
 3. Link the `styles.css` file to the `index.html` file
 3. The `images` directory contains the background image
 4. Use your coding powers to build out the design
