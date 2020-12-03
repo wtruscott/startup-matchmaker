@@ -4,7 +4,7 @@
 
 1. Go to [Startup Matchmaker](./startup-matchmaker/README.md).
 2. Follow the instructions in that repo
-3. When commpleted submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
+- When completed submit your CodePen via the HW Submission Form pinned to the classroom channel.
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
