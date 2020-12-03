@@ -3,7 +3,7 @@
 ### 1.Instagram Quotes - EST TIME: 1hr
 
 - Go to [Startup Matchmaker](./startup-matchmaker/README.md).
-- When completed submit your CodePen via the HW Submission Form pinned to the classroom channel.
+- When completed submit your repo link via the HW Submission Form pinned to the classroom channel.
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
