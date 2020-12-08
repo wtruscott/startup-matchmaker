@@ -14,11 +14,7 @@ So you're the lead developer at this amazing new startup: Matchmaker. This start
 
 ## Instructions
 
-Do the following:
-
-1. Fork and clone this repo (you must do this step as you do not have rights to push changes to this repo)
-2. Change into the new directory 
-3. Recreate the below mockup
+Recreate the below design mockup
 
 <img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup-matchmaker.png" width=600/>
 
@@ -29,7 +25,7 @@ When you have fulfilled the requirements below, submit a link to your github rep
 1. Open the starter_code in your code editor
 2. Examine the `index.html` file as it contains all the HTML needed for the design
 3. Link the `styles.css` file to the `index.html` file (examine how default.css is being linked)
-3. The `images` directory contains the background image
+3. The `images` directory contains the background image.  This image has already been uploaded to cloudinary and the url provided in the css file. 
 4. Use your coding powers to build out the design
 
 ## Plagiarism
