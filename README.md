@@ -15,7 +15,7 @@
 
 **Do**
 
-- [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/)
+- [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/) - we will be using this tomorrow for CSS Grid
 
 **Bonus:**
 - Play: [Flexbox Defense](http://www.flexboxdefense.com/)
