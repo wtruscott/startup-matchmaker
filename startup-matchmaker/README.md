@@ -16,7 +16,7 @@ So you're the lead developer at this amazing new startup: Matchmaker. This start
 
 Recreate the below design mockup
 
-<img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup-matchmaker.png" width=600/>
+<img src="https://res.cloudinary.com/jkeohan/image/upload/v1533402294/startup.png" width=600/>
 
 When you have fulfilled the requirements below, submit a link to your github repo in the google form.
 
