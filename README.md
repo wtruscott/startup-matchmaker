@@ -11,7 +11,7 @@
 
 **Read**
 
-- [Beginner's Guide to Choose Between CSS grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
+- [Beginner's Guide to Choose Between CSS Grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
 
 **Do**
 
@@ -25,7 +25,7 @@
 
 ### 3. JavaScript Primer - EST TIME: 30min
 
-- [Booleans And Conditionals](https://git.generalassemb.ly/SEIR-1207/JS_Primer_Homework/tree/master/night_two)
+- [Booleans And Conditionals](https://git.generalassemb.ly/SEIR-329/JS_Primer_Homework/tree/master/night_two)
 
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 20min
