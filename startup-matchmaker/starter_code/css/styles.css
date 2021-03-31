@@ -1,6 +1,141 @@
 /* ################################################## */
 /* ########### YOUR CUSTOM CSS ########### */
 /* ################################################## */
+* {
+    box-sizing: border-box;
+  }
+  
+#page-header {
+  background-color: black;
+  border-bottom: 5px solid yellow;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}  
+
+.container {
+  max-width: 1200px;
+  font-size: 1em;
+  min-width: 1200px;
+}
+
+a[href$="index.html"] {
+  color: yellow;
+  font-size: 35px;
+}
+
+li.first-of-type {
+  font-family: 'Oswald', sans-serif;
+}
+
+nav {
+  width: 480px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  padding: 20px;
+  font-size: 15px;
+}
+
+.tagline {
+  text-align: center;
+  background-color: lightgray;
+  font-style: italic;
+  font-size: 20px;
+}
+
+del {
+  color: gray;
+}
+
+ins {
+  //yellow underline//
+}
+
+.banner {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/coworking.jpg");
+  background-position-x: -300px;
+  background-position-y: -380px;
+  background-size: 150%;
+  min-width: 1200px;
+  height: 400px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px;
+}
+
+.blurb {
+  background-color: rgba(255, 255, 255, .8);
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  background-color: yellow;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  flex-grow:1;
+  justify-content: center;
+  border-radius: 5px;
+  line-height: 35px;
+  font-weight:700;
+  text-transform: uppercase;
+  
+}
+
+.touts {
+  display: flex;
+  justify-content: space-between;
+  margin: auto 20px;
+}
+
+.tout {
+  padding: 20px;
+}
+
+/*I looked up how to target  a specific hrefs because they were causing me problems*/
+
+a[href$="developers.html"] {
+  background-color: lightgray;
+  color: black;
+}
+
+a[href$="designers.html"] {
+  background-color: lightgray;
+  color: black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
 
 /* BACKGROUND IMAGE URL */
 /* https://res.cloudinary.com/jkeohan/image/upload/v1607432403/coworking_nxwjrp.jpg */
